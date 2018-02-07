@@ -1,0 +1,19 @@
+{
+  "name": "aloa.js",
+  "version": "0.0.1",
+  "description": "Third time app 4 the first app",
+  "main": "aloa.js",
+  "scripts": {
+    "start": "nodemon aloa.js"
+  },
+  "keywords": [
+    "aloa",
+    "aloa",
+    "aloa"
+  ],
+  "author": "Gustaveddine",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
